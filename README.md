@@ -3,7 +3,7 @@ Thermal printer with web interface
 
 ## Installation
 
-Run `install.sh`:
+On your Omega, run `install.sh`:
 
 ```
 sh install.sh
